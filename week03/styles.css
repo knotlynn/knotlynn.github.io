@@ -3,4 +3,7 @@
 /* CSS Document */
  body{
    color: green;
+   font-family: "Georgia Serif", Georgia, serif;
+   line-height: 1.4;
+   margin: 30px;
  }
