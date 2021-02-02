@@ -1,6 +1,7 @@
 /* Brenna Curtis */
 @charset "uft-8";
 /* CSS Document */
+
  body{
    color: green;
    font-family: "Georgia Serif", Georgia, serif;
@@ -11,3 +12,9 @@
    background-attachment: fixed;
    background-color: #F7F3DE;
  }
+
+header h1{
+  font-size: 350%;
+  color: "#7C1A00";
+  
+}
