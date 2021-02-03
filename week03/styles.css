@@ -65,3 +65,44 @@ nav a:hover{
   margin-left: 180px;
   padding: 10px;
 }
+
+footer{
+  clear: both;
+  text-align: center;
+}
+
+footer li{
+  display: inline;
+  padding: 10px;
+}
+
+h1{
+  color: #8C9273;
+}
+
+h2{
+  border-style: solid;
+  border-left: 20px;
+  padding-left: 5px;
+}
+
+h3{
+  background-image: url("header-star-1.gif");
+  background-repeat: no-repeat;
+}
+
+blockquote{
+  background-color: #FFE597;
+}
+
+ul{
+  list-style-type: square;
+}
+
+a{
+  color: #7C1A00;
+}
+
+a:hover{
+  background-color: #FFE597
+}
