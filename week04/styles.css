@@ -1,0 +1,77 @@
+/*basic bitch*/
+html, body{
+  margin: 0px;
+  padding: 0px;
+}
+html{
+ background-color: #555b6e;
+}
+body{
+  width: 70%;
+  min-width: 850px;
+  margin: 0 auto;
+  background-color: #89b0ae;
+}
+
+/*text*/
+h1{
+  font-family: 'Zilla Slab', serif;
+  font-size: 42px;
+  color: #555b6e;
+}
+h2, h3{
+  font-family: 'Zilla Slab', serif;
+  font-weight: 100;
+  font-style: italic;
+}
+h2{
+  color: #555b6e;
+}
+p, li{
+  font-family: 'Dosis', sans-serif;
+}
+
+/*fancy picture stuff*/
+img{
+  float: left;
+  margin: 0px 5px 5px 5px;
+  height: 200px;
+}
+img:hover{
+  height: 205px;
+}
+
+/* --- FORMATTING --- */
+article, aside{
+  background-color: #faf9f9;
+  border: 7px solid #bee3db;
+}
+header, nav, footer{
+  text-align: center;
+}
+nav{
+  color: #faf9f9;
+  border-top: 5px solid #555b6e;
+  border-bottom: 5px solid #555b6e;
+}
+header, footer{
+  background-color: #ffd6ba;
+  border: 7px solid #faf9f9;
+}
+aside, article{
+  padding: 5px;
+}
+aside{
+  float: right;
+  width: 30%;
+}
+article{
+  float: left;
+  width: 65%;
+}
+main{
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
